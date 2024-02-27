@@ -5,6 +5,21 @@ name = "pypi"
 
 [packages]
 scrapy = "*"
+pandas = "*"
+numpy = "*"
+openai = "*"
+pyarrow = "*"
+ipykernel = "*"
+matplotlib = "*"
+seaborn = "*"
+wordcloud = "*"
+requests = "*"
+scikit-learn = "*"
+lxml = "*"
+html5lib = "*"
+bs4 = "*"
+pyyaml = "*"
+awswrangler = "*"
 
 [dev-packages]
 
